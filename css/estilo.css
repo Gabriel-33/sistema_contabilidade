@@ -1,0 +1,98 @@
+*{
+	margin: 0 auto;
+	font-family: helveticana;
+}
+body{
+	padding: 10px;
+	background-image: url(../image/image1.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+#wrap{
+	width: 700px;
+	height: 350px;
+	margin: 0 auto;
+	background-color: transparent;
+	padding-top: 150px;
+	margin-top: 100px;
+	border: solid;
+	border-width: 1px
+}
+#tela1{
+	width: 500px;
+	height: 200px;
+	background-color: #dcdee2;
+	border-radius: 5px;
+	border: solid;
+	border-width: 1px;
+}
+.input{
+	width: 400px;
+	height: 30px;
+	background-color: #dcdee2;
+	padding: 5px;
+}
+.design{
+	width: 350px;
+	height: 30px;
+	border-radius: 5px;
+	font-size: 18px;
+}
+#title{
+	font-size: 17px;
+	text-align: center;
+	color: #626262;
+}
+#menu{
+	font-size: 30px;
+	list-style-type: none;
+	margin-top: 0px;
+}
+#button{
+	width: 355px;
+	height: 40px;
+	border-radius: 5px; 
+	border-width: 1px;
+	background-color: #1bc62c;
+	font-size: 20px;
+	color: #424242;
+}
+.buttonAlg{
+	width: 150px;
+	height: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+	font-size: 20px;
+	border-radius: 5px;
+	border: solid;
+	border-width: 1px;
+	background-color: #1bc62c;
+}
+#header{
+	width: 100%;
+	height: 100px;
+	border: solid;
+	border-bottom-width: 1px;
+	border-top-width: 0px;
+	border-left-width: 0px; 
+	border-right-width: 0px;
+}
+#p{
+	text-align: center;
+	margin: 10px;	
+}
+#nav{
+	width: 100%
+	height: 400px;
+}
+#text{
+	color: black;
+	font-family: helveticana;
+	font-size: 30px;
+}
+#submit{
+	width: 417px;
+	height: 30px;
+	margin-top: 5px;
+	font-size: 20px;
+}

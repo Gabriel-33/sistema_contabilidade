@@ -1,0 +1,32 @@
+Searching 1561 files for ""example_wrapper"" (case sensitive)
+
+0 matches across 0 files
+
+
+Searching 1561 files for "example_wrapper" (case sensitive)
+
+0 matches across 0 files
+
+
+Searching 1561 files for ""example_wrapper"" (case sensitive)
+
+0 matches across 0 files
+
+
+Searching 1561 files for "dt-buttons btn-group" (case sensitive)
+
+C:\wamp\www\sistema\vendors\datatables.net-buttons-bs\js\buttons.bootstrap.js:
+   40  	dom: {
+   41  		container: {
+   42: 			className: 'dt-buttons btn-group'
+   43  		},
+   44  		button: {
+
+C:\wamp\www\sistema\vendors\datatables.net-buttons-bs\js\buttons.bootstrap.min.js:
+    3   ©2016 SpryMedia Ltd - datatables.net/license
+    4  */
+    5: (function(c){"function"===typeof define&&define.amd?define(["jquery","datatables.net-bs","datatables.net-buttons"],function(a){return c(a,window,document)}):"object"===typeof exports?module.exports=function(a,b){a||(a=window);if(!b||!b.fn.dataTable)b=require("datatables.net-bs")(a,b).$;b.fn.dataTable.Buttons||require("datatables.net-buttons")(a,b);return c(b,a,a.document)}:c(jQuery,window,document)})(function(c){var a=c.fn.dataTable;c.extend(!0,a.Buttons.defaults,{dom:{container:{className:"dt-buttons btn-grou"},
+    6  button:{className:"btn btn-default"},collection:{tag:"ul",className:"dt-button-collection dropdown-menu",button:{tag:"li",className:"dt-button"},buttonLiner:{tag:"a",className:""}}}});a.ext.buttons.collection.text=function(a){return a.i18n("buttons.collection",'Collection <span class="caret"/>')};return a.Buttons});
+    7  
+
+2 matches across 2 files

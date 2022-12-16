@@ -5,4 +5,4 @@ Tecnológias usadas:
 - Javascript
 - Html & css
 - Banco de dados
-- Requisições em > real time com Ajax.
+- Requisições em real time com Ajax.

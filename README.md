@@ -1,5 +1,5 @@
 # sistema_contabilidade
-Sistema para realizar gerenciamento de alvaras,despesas,contratos etc.
+Sistema desenvolvido durante meu estágio de ensino médio.Com objetivo de realizar gerenciamento de alvaras,despesas,contratos etc.
 Tecnológias usadas:
 - Php
 - Javascript
